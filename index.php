@@ -1,7 +1,7 @@
 
  <?php
 
-//Backend Validations
+//BackendValidations
 session_start();  
  session_unset();
  session_destroy();
